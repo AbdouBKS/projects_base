@@ -1,3 +1,3 @@
 # projects_base
 
-this repository contain the base i use to my C project with my own lib.
+this repository contain the base I use for my C project with my own lib.
